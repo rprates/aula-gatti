@@ -1,10 +1,10 @@
 Exemplos usados na aula do professor Gatti
 
-SERVIDOR - API
+#SERVIDOR - API
 Desenvolvido em NodeJS / Express
 
-CLIENT
+#CLIENT
 Desenvolvido em Java
 
-DEPENDÊNCIAS
+#DEPENDÊNCIAS
 Para funcionar precisa primeiro instalar o Express, e no projeto em Java incluir as dependências do Jackson (parser de JSON).
